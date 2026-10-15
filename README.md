@@ -24,7 +24,7 @@ This project was created to practice Python programming and explore basic game d
 
 1. Clone this repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/iamkhm7/Snake-B.git
    ```
 2. Navigate to the project folder.
 3. Install Pygame:
@@ -33,7 +33,7 @@ This project was created to practice Python programming and explore basic game d
    ```
 4. Run the game:
    ```bash
-   python snake.py
+   python snakeb.py
    ```
 
 ### Option 2: Run the Executable
