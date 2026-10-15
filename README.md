@@ -1,4 +1,4 @@
-# 🐍 Snake Game
+# 🐍 Snake-B Game
 
 A classic Snake Game developed using **Python and Pygame**. Control the snake, eat food to increase your score, and avoid colliding with the walls or your own tail.
 
